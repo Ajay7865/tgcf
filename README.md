@@ -143,12 +143,12 @@ for a long time.
 
 You can enjoy smooth one-click deploys to the major cloud providers.
 
-- [Heroku](https://github.com/aahnik/tgcf/wiki/Deploy-to-Heroku)
-- [Digital Ocean](https://github.com/aahnik/tgcf/wiki/Deploy-to-Digital-Ocean)
-- [Gitpod](https://github.com/aahnik/tgcf/wiki/Run-for-free-on-Gitpod")
-- [Python Anywhere](https://github.com/aahnik/tgcf/wiki/Run-on-PythonAnywhere)
-- [Google Cloud Run](https://github.com/aahnik/tgcf/wiki/Run-on-Google-Cloud)
-- [GitHub Actions](https://github.com/aahnik/tgcf/wiki/Run-tgcf-in-past-mode-periodically)
+- [Heroku](https://github.com/Ajay7865/tgcf/wiki/Deploy-to-Heroku)
+- [Digital Ocean](https://github.com/Ajay7865/tgcf/wiki/Deploy-to-Digital-Ocean)
+- [Gitpod](https://github.com/Ajay7865/tgcf/wiki/Run-for-free-on-Gitpod")
+- [Python Anywhere](https://github.com/Ajay7865/tgcf/wiki/Run-on-PythonAnywhere)
+- [Google Cloud Run](https://github.com/Ajay7865/tgcf/wiki/Run-on-Google-Cloud)
+- [GitHub Actions](https://github.com/Ajay7865/tgcf/wiki/Run-tgcf-in-past-mode-periodically)
 
 ## Getting Help
 
